@@ -154,3 +154,5 @@ function bitwiseIorTest() {
     print(bitwiseFormat + ' -> ' + decimalFormat);
 }
 ```
+
+Project published at: https://ba-java-instructor-zhukov-82.github.io/javascript-bitwise-operators/
